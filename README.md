@@ -9,9 +9,11 @@
 <div><h3>| RobôCIn - Research</h3></div>
 </div>        
 
-<p>
-    <h2> 1) Machine Learning</h2>
-    <img align="left" src="extra/tree1.png" width="360" >
-    
-</p>
+
+# 1) Machine Learning
+<img src="MachineLearning/extra/tree1.png" width="300">
+
+
+# 2) Vision
+<img src="Vision/extra/mat.png" width="600">
 
