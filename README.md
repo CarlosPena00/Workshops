@@ -1,7 +1,7 @@
 # Workshops
 
 <div align="left">
-<img align="left" src="extra/me.jpg" height="120" width="120" >
+<img align="left" src="extra/me.jpg" width="180" >
 <div></div>
 <div><h3>| Carlos H. C. Pena - chcp@cin.ufpe.br</h3></div>
 <div><h3>| Master student - Image Segmentation</h3></div>  
